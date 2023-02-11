@@ -1,148 +1,70 @@
+- <h1 align="center">🛑 WELCOME TO FREZZY-XD 🛑</h1>
+![IMG_20220320_184923_554](https://telegra.ph/file/49857e33ac4e01c5a147a.jpg)
+
 <p align="center">
-    <img src="https://telegra.ph/file/75b17b1b35154d2fbd8da.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="Frezzy-XD">
+
 </p>
-<h1 align="center">Maxxy-Botz</h1>
+<h1 align="center">🎧 Frezzy-XD</h1>
+<p align="center">
+  <a href="https://github.com/Frezzy-XD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Maxxy Botz;My+Name+is+🐼 Frezzy-XD;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
+</p>
 
-## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
+<p align="center">
+<a href="https://github.com/Frezzy-XD"><img title="Author" src="https://img.shields.io/badge/Frezzy-XD-blue.svg?style=for-the-badge&logo=github"></a>
+ </p>
+ <h4 align="center">
+  <a
+  <a href="https://wa.me/6285380166282">If there is a need, you can directly chat with me </a>
+</h4>
+</p>
 
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285295374964) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285380166282) 
----------
-
-## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hyuura-Official/YushinoMdV3)
-
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
-
-## TERMUX USER
+## ```🛑 ABOUT ME```
 ```bash
-$ pkg upgrade && pkg update
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/Frezzy-XD/Maxxy-Botz
-$ cd Maxxy-Botz
-$ npm i 
-```
-If error try using yarn instead of npm, see [here](https://github.com/Hyuura-Official/YushinoMdV3#if-npm-install-failed--try--using-yarn-instead-of-npm)
-```bash
-$ node .
+- 👋 Hello, I’m @Frezzy-XD
+- 👀 I’m interested in the media
+- 🌱 I'm just a beginner in this field
+- 💞️ I don't care what people say about me, I just want to give this a try
+- 📫 I'am not a developer, I'm not a mastah and I'm not a temperature
 ```
 
-#### If npm install failed, try using yarn instead of npm
-```bash
-$ pkg install yarn -y
-$ yarn install
-```
----------
+## ```🛑 FOLLOW SOSIAL MEDIA ME```
+<p align="center">
+<a href="https://instagram.com/kahfi_maker"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/6285380166282"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw"><img src="https://img.shields.io/badge/YOUTUBE Maxxy Botz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
+<a href="https://www.tiktok.com/@maxxy_0t"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
+</p>
 
-## TERMUX WITH UBUNTU
+## ```🛑 SUPPORT DENGAN CARA DONASI```
 
-```bash
-apt update && apt full-upgrade
-apt install wget curl git proot-distro
-proot-distro install ubuntu
-echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
-ubuntu
-```
----------
+- [`DANA`](https://wa.me/6285380166282?text=banh+ini+nomor+nya+kah+085380166282+?)
+- [`PULSA`](https://wa.me/6285380166282?text=banh+ini+nomor+nya+kah+085380166282+?)
+> Jika ingin berdonasi lewat link
+> Klik [ SAWERIA ](https://saweria.co/MaxxyBotz)
 
-[ INSTALLING REQUIRED PACKAGES ]
+## ```🛑 GROUP BOT```
 
-```bash
-ubuntu
-apt update && apt full-upgrade
-apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-dev libavcodec-extra libavcodec-extra58 libavdevice-dev libavdevice58 libavfilter-dev libavfilter-extra libavfilter-extra7 libavformat-dev libavformat58 libavifile-0.7-bin libavifile-0.7-common libavifile-0.7c2 libavresample-dev libavresample4 libavutil-dev libavutil56 libpostproc-dev libpostproc55 graphicsmagick graphicsmagick-dbg graphicsmagick-imagemagick-compat graphicsmagick-libmagick-dev-compat groff imagemagick-6.q16hdri imagemagick-common libchart-gnuplot-perl libgraphics-magick-perl libgraphicsmagick++-q16-12 libgraphicsmagick++1-dev
-```
+- [`GROUP WA BOT¹`](https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup)
+- [`GROUP JB`](https://chat.whatsapp.com/K5zLkt3E6Ty1IZfSagtGuM)
+  
+## ```🛑 WHATSAPP ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓```
+  CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
+- [`WHATSAPP ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`](https://wa.me/6285380166282?text=Assalamualaikum+Banh+ᴋᴀʜꜰɪ+ᴍᴀᴋᴇʀ✓)
 
----------
+## ```🛑 CREATOR BOT```
+ [![Frezzy-XD](https://github.com/Frezzy-XD.png?size=200)](https://github.com/Frezzy-XD) 
+---->
+[ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓](https://github.com/Frezzy-XD) 
+ CREATOR
+  
 
-[ INSTALLING NODEJS ]
+## ```🛑 AUTHOR```
+ 
+  [ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓](https://github.com/Frezzy-XD)
+ AUTHOR
 
-```bash
-ubuntu
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
-apt install -y nodejs gcc g++ make
-git clone https://github.com/Frezzy-XD/Maxxy-Botz
-cd Maxxy-Botz
-npm install
-npm update
-```
-
----------
-
-## FOR WINDOWS/VPS/RDP USER 💻
-
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
-
-```bash
-git https://github.com/Frezzy-XD/Maxxy-Botz
-cd Maxxy-Botz
-npm install
-npm update
-```
-
----------
-
-## Run 🏃
-
-```bash
-node .
-```
-
----------
-
-#
-### 📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Sebelum pakai jangan lupa kasih star
-3. Follow Github !
-4. Jangan salah gunakan script ini!
-
----------
-
-
-## Thanks To
-```bash
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
-𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
-
-⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
-⭝ 𝑨𝒍𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑴𝒂𝒉𝒂 𝑬𝒔𝒂
-⭝ 𝑶𝒓𝒂𝒏𝒈 𝑻𝒖𝒂
-⭝ 𝑻𝒆𝒎𝒆𝒏 𝑮𝒘
-⭝ 𝑴𝒂𝒔𝒕𝒂𝒉 𝑴𝒂𝒔𝒕𝒂𝒉
-⫹⫺ 𝑇𝒉𝑒 𝑁𝑎𝑚𝑒 𝑇𝒉𝑎𝑡 𝐻𝑒𝑙𝑝𝑒𝑑 𝑀𝑒 ⫹⫺
-⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔
-⭝ 𝑨𝒅𝒊𝒘𝒂𝒋𝒊𝒔𝒉𝒊𝒏𝒈
-⭝ 𝑵𝒂𝒓𝒖𝒕𝒐𝒎𝒐
-⭝ 𝑹𝒊𝒔𝒎𝒂𝑩𝒐𝒕𝒛 𝑶𝒇𝒇𝒄
-⭝ 𝑱𝒂𝒓𝒐𝒕 𝑶𝒇𝒇𝒄
-⭝ 𝑯𝒚𝒛𝒆𝒓
-⭝ 𝑫𝒆𝒇𝒇𝒓𝒊
-⭝ 𝑬𝒍𝒂𝒊𝒏𝒂
-⭝ 𝑲𝒂𝒏𝒏𝒂𝑪𝒉𝒂𝒏
-⭝ 𝑪𝒉𝒓𝒊𝒔𝒕𝒊𝒂𝒏 𝑰𝒅
-⭝ 𝑨𝒊𝒏𝒆
-⭝ 𝑾𝒉 𝑴𝒐𝒅𝒔 𝑫𝒆𝒗
-⭝ 𝑨𝒓𝒊𝒇𝒇𝒃
-⭝ 𝑰𝒍𝒎𝒂𝒏
-⭝ 𝑨𝒎𝒊𝒓𝒖𝒍
-⭝ 𝑰𝒔𝒕𝒊𝒌𝒎𝒂𝒍
-⭝ 𝑭𝒛𝒐𝒏𝒆
-⭝ 𝑭𝒂𝑱𝒂𝒓
-⭝ 𝑨𝒓𝒖𝒍𝒍 𝑶𝒇𝒄
-⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
-⭝ Frazzy-XD
-⭝ 𝑮𝒆𝒎𝒑𝒚𝑻𝒐𝒏
-```
+<!---
+I LOVE YOU GUYS
+--->
