@@ -5,13 +5,13 @@
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="Frezzy-XD">
 
 </p>
-<h1 align="center">🎧 Frezzy-XD</h1>
+<h1 align="center">🎧 KAHFI-XD</h1>
 <p align="center">
-  <a href="https://github.com/Frezzy-XD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Maxxy Botz;My+Name+is+🐼 Frezzy-XD;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
+  <a href="https://github.com/KAHFI-XD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Maxxy Botz;My+Name+is+🐼 Frezzy-XD;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
 </p>
 
 <p align="center">
-<a href="https://github.com/Frezzy-XD"><img title="Author" src="https://img.shields.io/badge/Frezzy-XD-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/KAHFI-XD"><img title="Author" src="https://img.shields.io/badge/Frezzy-XD-blue.svg?style=for-the-badge&logo=github"></a>
  </p>
  <h4 align="center">
   <a
