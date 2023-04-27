@@ -1,4 +1,4 @@
-- <h1 align="center">🛑 WELCOME TO FREZZY-XD 🛑</h1>
+- <h1 align="center">🛑 WELCOME TO KAHFI-XD 🛑</h1>
 ![IMG_20220320_184923_554](https://telegra.ph/file/9608ad0baf572929b2859.jpg)
 
 <p align="center">
@@ -7,11 +7,11 @@
 </p>
 <h1 align="center">🎧 KAHFI-XD</h1>
 <p align="center">
-  <a href="https://github.com/KAHFI-XD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Maxxy Botz;My+Name+is+🐼 Frezzy-XD;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
+  <a href="https://github.com/KAHFI-XD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+Maxxy Botz;My+Name+is+🐼 KAHFI-XD;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
 </p>
 
 <p align="center">
-<a href="https://github.com/KAHFI-XD"><img title="Author" src="https://img.shields.io/badge/Frezzy-XD-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/KAHFI-XD"><img title="Author" src="https://img.shields.io/badge/KAHFI-XD-blue.svg?style=for-the-badge&logo=github"></a>
  </p>
  <h4 align="center">
   <a
@@ -31,10 +31,10 @@
 
 ## ```🛑 FOLLOW SOSIAL MEDIA ME```
 <p align="center">
-<a href="https://instagram.com/kahfi_maker"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6285380166282"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw"><img src="https://img.shields.io/badge/YOUTUBE Maxxy Botz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
-<a href="https://www.tiktok.com/@maxxy_0t"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
+<a href="https://instagram.com/maxxystore__"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/959953867741"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/@MaxxyBotz"><img src="https://img.shields.io/badge/YOUTUBE Maxxy Botz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
+<a href="https://www.tiktok.com/@beatrix_ofc0"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
 </p>
 
 ## ```🛑 SUPPORT DENGAN CARA DONASI```
