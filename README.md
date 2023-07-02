@@ -1,5 +1,5 @@
 - <h1 align="center">🛑 WELCOME TO KAHFI-XD 🛑</h1>
-![IMG_20220320_184923_554](https://telegra.ph/file/9608ad0baf572929b2859.jpg)
+![IMG_20220320_184923_554](https://telegra.ph/file/7e93e63346657d87e7f30.jpg)
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="Frezzy-XD">
