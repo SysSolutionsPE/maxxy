@@ -30,7 +30,7 @@ export async function handler(chatUpdate) {
     this.pushMessage(chatUpdate.messages).catch(console.error)
     let m = chatUpdate.messages[chatUpdate.messages.length - 1]
     
-    global.img = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' 
+    global.img = 'https://telegra.ph/file/7e93e63346657d87e7f30.jpg' 
     
     if (!m)
         return
@@ -289,52 +289,52 @@ export async function handler(chatUpdate) {
                 global.db.data.chats[m.chat] = {}
             if (chat) {
                 if (!('isBanned' in chat))
-                    chat.isBanned = false
+                    chat.isBanned = true
                 if (!('welcome' in chat))
                     chat.welcome = true
                 if (!('detect' in chat))
-                    chat.detect = false
+                    chat.detect = true
                 if (!('sWelcome' in chat))
-                    chat.sWelcome = ''
+                    chat.sWelcome = '1'
                 if (!('sBye' in chat))
-                    chat.sBye = ''
+                    chat.sBye = '1'
                 if (!('sPromote' in chat))
-                    chat.sPromote = ''
+                    chat.sPromote = '1'
                 if (!('sDemote' in chat))
-                    chat.sDemote = ''
+                    chat.sDemote = '1'
                 if (!('delete' in chat))
                     chat.delete = true
                 if (!('antiLink' in chat))
                     chat.antiLink = true
                 if (!('viewonce' in chat))
-                    chat.viewonce = false
+                    chat.viewonce = true
                 if (!('antiBadword' in chat)) 
-                    chat.antiBadword = false
+                    chat.antiBadword = true
                 if (!('simi' in chat))
                     chat.simi = false
                 if (!('nsfw' in chat))
-                    chat.nsfw = false
+                    chat.nsfw = true
                 if (!('premnsfw' in chat))
-                    chat.premnsfw = false
+                    chat.premnsfw = true
                 if (!isNumber(chat.expired))
                     chat.expired = 0
             } else
                 global.db.data.chats[m.chat] = {
-                    isBanned: false,
+                    isBanned: true,
                     welcome: true,
-                    detect: false,
-                    sWelcome: '',
-                    sBye: '',
-                    sPromote: '',
-                    sDemote: '',
+                    detect: true,
+                    sWelcome: '1',
+                    sBye: '1',
+                    sPromote: '1',
+                    sDemote: '1',
                     delete: true,
                     antiLink: true,
-                    viewonce: false,
+                    viewonce: true,
                     antiBadword: true,
                     simi: false,
                     expired: 0,
-                    nsfw: false,
-                    premnsfw: false,
+                    nsfw: true,
+                    premnsfw: true,
                 }
             let settings = global.db.data.settings[this.user.jid]
             if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {}
@@ -925,7 +925,7 @@ if (msgg) return conn.sendButtonDocAccess(m.chat, `${ucapan()} ` + tag, msgg + '
   })
 }
 function ucapan() {
-  const time = moment.tz('Asia/Jakarta').format('HH')
+  const time = moment.tz('America/Lima').format('HH')
   let res = "Sudah Dini Hari Kok Belum Tidur Kak? 🥱"
   if (time >= 4) {
     res = "Pagi Lord 🌄"
