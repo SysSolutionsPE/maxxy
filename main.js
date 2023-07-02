@@ -127,7 +127,7 @@ async function connectionUpdate(update) {
   if (global.db.data == null) loadDatabase()
    if (update.receivedPendingNotifications) conn.sendButtonDoc(`6281361281833@s.whatsapp.net`, 
 `┏═══════════════════
-┃╴◈ Bᴏᴛ Tᴇʟᴀʜ Tᴇʀsᴀᴍʙᴜɴɢ
+┃╴◈ Bᴏᴛ SysSolutions
 ┣═══════════════════
 ┃╴▶ Nᴏᴍᴏʀ : ${global.nomorbot}
 ┃╴▶ Nᴀᴍᴇ Bᴏᴛ : ${global.namebot}
@@ -166,7 +166,7 @@ global.reloadHandler = async function (restatConn) {
   }
   
 let welc = `
-❖━━━[ *어서 오십시오* ]━━━❖
+❖━━━[ *SysSolutions* ]━━━❖
 ┏––––––━━━━━━━━•
 │☘︎ @subject
 ┣━━━━━━━━┅┅┅
@@ -180,7 +180,7 @@ let welc = `
 –––┅┅ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ* ┅┅––––––
 @desc`
 let lef = 
-`❖━━━[ *나중에 봐요* ]━━━❖
+`❖━━━[ *SysSolutions* ]━━━❖
 𝚂𝚊𝚢𝚘𝚗𝚊𝚛𝚊𝚊 *@user* 👋😃`
 
   conn.welcome = welc
